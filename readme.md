@@ -1,4 +1,4 @@
-## practice git commonds
+### practice git commonds
 jab phele commit krte hai tab error ata hai fir hme ye details fille krni hoti hai
 
 git config --global user.name "Pawan"

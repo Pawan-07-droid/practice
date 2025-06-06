@@ -23,3 +23,9 @@ ab apni file ko main ke andr push krenge
 git push origin main
 
 git pull origin main
+
+maine gitignore me venv/ diya 
+uske baad app me sub function add kiya then 
+git add . 
+but venv active nhi hua git status se pata chla
+ab maine myenv krke folder banya or uske andr test.py file bnayi or me chata hu ki wo mere github par na jaye to isko git ignore me likh dunga  fir ye isko ignore krega 

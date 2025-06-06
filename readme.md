@@ -22,3 +22,4 @@ ab apni file ko main ke andr push krenge
 
 git push origin main
 
+git pull origin main
